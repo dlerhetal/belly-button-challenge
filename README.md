@@ -3,6 +3,8 @@ Module 14 Challenge for Vanderbilt Data Analytics December 2023
 
 There are 4 files and 2 folders located in this repository, as follows:
 
+The live dashboard is located at https://dlerhetal.github.io/
+
 This README text file 
 1 index.html file 
 1 samples.json file 
